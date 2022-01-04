@@ -1,0 +1,22 @@
+{
+  "name": "test-azure-gatsby-1",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Test Azure Gatsby 1",
+  "author": "Adam Saladino",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^4.4.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
